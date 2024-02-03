@@ -1,4 +1,4 @@
-# nlp_ay22-23
-NLP Case Study - HaSpeeDe 2: Comparative Analysis of Feature Extraction Models and Machine Learning Classifiers for Hate Speech Detection
+# NLP Case Study - A.Y. 22/23
+## HaSpeeDe 2: Comparative Analysis of Feature Extraction Models and Machine Learning Classifiers for Hate Speech Detection
 
 The rise of the internet and social media platforms has enabled the rapid spread of online hate speech, leading to significant consequences, including discrimination, hostility, and violent incitation. Machine learning techniques and natural language processing have a crucial role in addressing this issue. EVALITA 2020 Hate Speech Detection (HaSpeeDe2) challenge’s Task A is a binary classification task aimed at determining the presence or the absence of hateful content in the text. Hence, this case study aims to address this task by combining several feature extraction methods with machine learning models to evaluate their performances in detecting online hate speech.
